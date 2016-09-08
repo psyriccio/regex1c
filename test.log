@@ -1,0 +1,8 @@
+------------
+"" ? a[bc]+d -> Нет
+"abbbcd" ? a[bc]+d -> Да
+"23423423" ? a[bc]+d -> Нет
+"aabbccdd" ? a[bc]+d -> Нет
+"abccbbccbcbcd" ? a[bc]+d -> Да
+------------
+ОК

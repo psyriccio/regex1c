@@ -29,3 +29,5 @@
 ![shot00.png](./screenshots/shot00.png)
 
 ![shot01.png](./screenshots/shot01.png)
+
+![shot02.png](./screenshots/shot02.png)
